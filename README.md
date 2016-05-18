@@ -5,8 +5,6 @@ This project focuses on the participatory Do it Yourself (DiY) culture, which il
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Do-it-yourself approach…is all about…using whatever resources are available to your…[and] not trying to seek out &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;new technology. (Spencer, 2006, p. 187)
 
-The Do-it-yourself approach…is all about…using whatever resources are available to your…[and] not trying to seek out new technology. (Spencer, 2006, p. 187)
-
 Greg Locke, creator of The Trons, has a similar approach to the DiY approach. The Trons are a robot garage band made from recycled materials, including flimsy materials of Meccano and aluminium. Through re-purposing discarded technologies, DiY practitioners engage in “tinkering methodologies” (Hertz and Parikka, 2012) which, define the process as an experimental, exploration of engagement between humans redundant technologies.
 
 This information is relevant and appropriate to the project as the physical controller, that communicates user input to the software counterpart, is built from a broken and discarded lighting console. The original circuitry for the console was in a state of disrepair, however, the potentiometers and metal frame were in good working order. The goal of the project was to create an analogue style step sequencer and synthesiser controlled by a physical, tactile surface while generating all the actual audio within a software counterpart.
