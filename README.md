@@ -1,2 +1,2 @@
 # 7MU009---Music-Computing
-Respository for the repurposed lighting desk step sequencer
+Repurposed broken lighting desk used to control a virtual step sequencer and synthesiser through the use of Arduinos. Built in Pure Data.
