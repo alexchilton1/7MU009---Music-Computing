@@ -2,7 +2,6 @@
 Repurposed broken lighting desk used to control a virtual step sequencer and synthesiser through the use of Arduinos. Built in Pure Data.
 
 ## Background
-------
 This project focuses on the participatory Do it Yourself (DiY) culture, which illustrates a certain ethos in its approach to technology and materials. Based less on commercially released technologies that are classified as finalised products and concentrated on raw materials of garbage and recycling, incomplete, broken or discarded technology. This type of practise places emphasis on building unique, custom-built technology from the components and materials, which have been re-functioned from their original objective to create new and often unexpected functions. According to Snake-Beings (2016) the ability to make something happen, is more expansive and incorporates the capacities of materials to become active participants in the production of cultural artifacts.
 
 The re-functioning of materials and existing technology from its original purpose to a new context of usage creates what Spencer (2006) calls the Lo-Fi ethos of DiY culture.
