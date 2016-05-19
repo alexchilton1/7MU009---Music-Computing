@@ -38,3 +38,8 @@ The Tear Drop allows an incredible 64 steps in the sequence, due to the hardware
 
 Two huge advantages that this project has over these sequencers is; firstly, the total cost of the purchased parts comes to twenty pounds and secondly, if has a synthesiser built in to the software so there is no need for an additional piece of hardware. Obviously, being a hybrid, this project is reprogrammable at any time, whereas, the other sequencers will always remain what they are in their current form.
 
+The first thing to note is, obviously, the fact that the hardware part is in fact nothing to do with producing music or audio in general for that matter. But it has been salvaged and repurposed to act as a step sequencer to controller a software synthesiser. This ties in a lot to what was mentioned at the beginning about The Trons. They are a group of robots created to make music from parts, which have nothing to do with music. However when put together they make music. According to Bryant,
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There is no such thing as a simple machine. Rather, every machine is simultaneously a unit or individual entity in its &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;own right and a complex assemblage of other machines. In short machines are composed of other machines. (Bryant, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2014, p. 75)
+
+If this is the case then machines can always be broken down into other machines. So the fact that the lighting console as a whole was broken is irrelevant, as inside it was full of smaller, working machines if applied in the correct way.
