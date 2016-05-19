@@ -82,6 +82,8 @@ In 1961 Schroeder first attempted to make digital reverberation while at Bell La
 ------
 ![Lighting Board Sequencer Flow Diagram](https://github.com/alexchilton1/7MU009---Music-Computing/blob/master/Lighting%20Desk%20Sequencer%20Flow%20Diagram.png)
 
+https://drive.google.com/open?id=0By6_1xhwTEChSEFmdENuWGhIUnc
+
 ## Functionality and Overall Performance
 ------
 
