@@ -103,7 +103,7 @@ https://drive.google.com/open?id=0By6_1xhwTEChb09fMk1ybXJBMlE
 ------
 The fact that the board is a salvaged piece of repurposed equipment lends itself to the fact that some aspects of it could be drastically improved. For example, some of the potentiometers give false reading or are very jitter. This is possibly caused by their age, but more than likely it is down to the fact that have been used heavily and are worn out. Another thing that could do with changing is the amount of Arduino’s involved overall. Three were used in the end but this makes the project a little unstable so it would be wise to reduce the amount of them and instead apply a multiplexer chip to be able to add extra potentiometers to a single Arduino board. Because of this lack of input, the controls for the ratchet and delay have to use Open Sound Control via an external device. It would be more aesthetically appealing to keep all the control inside the lighting console controller. Finally, taking all of this into account another addition could be the use of a Raspberry Pi or BeagleBone to embed the software part of the sequencer, allowing for the audio generation section be mounted inside of the controller itself. This would keep everything in one place and make the project even more appealing. But overall the project works as it is supposed to and the finished controller looks appealing.
 
-![Finished step sequencer controller](https://raw.githubusercontent.com/alexchilton1/7MU009---Music-Computing/master/5-FINAL.jpeg)
+![Finished step sequencer controller](https://github.com/alexchilton1/7MU009---Music-Computing/blob/master/5-Final.png)
 
 ## Bibliography
 ------
