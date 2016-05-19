@@ -46,7 +46,9 @@ The first thing to note is, obviously, the fact that the hardware part is in fac
 
 If this is the case then machines can always be broken down into other machines. So the fact that the lighting console as a whole was broken is irrelevant, as inside it was full of smaller, working machines if applied in the correct way.
 
-The board uses Arduino microcontrollers to convert and send messages from analogue potentiometers to the digital audio software Pure Data. Insert figure 1. 
+The board uses Arduino microcontrollers to convert and send messages from analogue potentiometers to the digital audio software Pure Data.
+
+!()[]
 
 These messages are then converted and read by the computer and this process is what creates the sound. All the potentiometers are wired and grounded correctly using the appropriate resistors to make sure that none of the Arduino’s get blown up. Insert figure 2.
 
@@ -91,7 +93,9 @@ Brief functionailty of lighting desk sequencer:
 
 https://drive.google.com/open?id=0By6_1xhwTECha0p5dFdGM1NVYU0
 
+Playing the sequencer:
 
+https://drive.google.com/open?id=0By6_1xhwTEChb09fMk1ybXJBMlE
 
 ## What Could Be Improved
 ------
