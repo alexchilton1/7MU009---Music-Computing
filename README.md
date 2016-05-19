@@ -54,7 +54,7 @@ After the potentiometer messages reach the computer they are read by Pure Data, 
 
 Even though this software synthesiser does not use voltage like the classic analogue synthesisers, it still follows a similar workflow in the way it is constructed. It uses a little bit of additive synthesis.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Additive synthesis is a class of sound synthesis techniques based on the summation of elementary waveforms to create a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;more complex waveform. Additive synthesis is one of the oldest and most heavily researched synthesis techniques. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Roads, 1996, p.134)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Additive synthesis is a class of sound synthesis techniques based on the summation of elementary waveforms to create &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a more complex waveform. Additive synthesis is one of the oldest and most heavily researched synthesis techniques. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Roads, 1996, p.134)
 
 It also uses subtractive synthesis to filter out certain frequencies to create different timbres.
 
@@ -62,7 +62,7 @@ It also uses subtractive synthesis to filter out certain frequencies to create d
 
 The layout of the synthesiser runs similarly to its analogue ancestors, using an oscillator to begin the process, followed by a filter section and finally an amplitude envelope. In the analogue domain, these sections require voltage and are known as voltage controlled oscillator and so on.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On most synthesiser designs the VCO would more correctly be described as a voltage-controlled audio oscillator, because &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;it is designed to create electrical signals, and so eventually sounds, more or less within the range of human hearing. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Jenkins, 207, p.49)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On most synthesiser designs the VCO would more correctly be described as a voltage-controlled audio oscillator, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;because it is designed to create electrical signals, and so eventually sounds, more or less within the range of human &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hearing. (Jenkins, 207, p.49)
 
 
 Through researching Schroeder’s work around all-pass filters combined with Schroeder-Moorer’s design of lowpass-feedback-comb-filters, it became clear there are two main ways of creating digital reverb in this manner. Artificial reverberation attempts to recreate the echoes in natural reverb using different techniques involving varying computational requirements, in this case a perceptual approach.
