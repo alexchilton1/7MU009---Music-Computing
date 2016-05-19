@@ -7,7 +7,7 @@ This project focuses on the participatory Do it Yourself (DiY) culture, which il
 
 The re-functioning of materials and existing technology from its original purpose to a new context of usage creates what Spencer (2006) calls the Lo-Fi ethos of DiY culture.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Do-it-yourself approach…is all about…using whatever resources are available to your…[and] not trying to seek out new technology. (Spencer, 2006, p. 187)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Do-it-yourself approach…is all about…using whatever resources are available to your…[and] not trying to seek out &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;new technology. (Spencer, 2006, p. 187)
 
 Greg Locke, creator of The Trons, has a similar approach to the DiY approach. The Trons are a robot garage band made from recycled materials, including flimsy materials of Meccano and aluminium. Through re-purposing discarded technologies, DiY practitioners engage in “tinkering methodologies” (Hertz and Parikka, 2012) which, define the process as an experimental, exploration of engagement between humans redundant technologies.
 
@@ -18,3 +18,23 @@ This information is relevant and appropriate to the project as the physical cont
 On a step sequencer, it is common to find one or more rows of potentiometers, usually with eight or sixteen potentiometers per row. On an analogue step sequencer, for each row, there’s a voltage output. The sequencer steps along the row or rows, one potentiometer at a time. At each step, the voltage level set by a corresponding potentiometer is sent to that row’s output. The output can be patched to the CV input of an oscillator. Each time the sequencer selects a new potentiometer; the frequency of the oscillator changes, producing a new musical pitch. When the sequencer reaches the last potentiometer in the row, it returns back to the start and, if left unaltered, the pattern of selected pitches repeats again. An incoming signal tells the sequencer when it is ready to move to the next potentiometer in the row, this is called the clock, trigger or gate. This signal is usually also used to gate multiple envelope generators.
 
 A sequencer provides a note value, how long each note should be, how long the note is and how loud or soft to play it. It offers very precise control of these parameters. A step sequencer offers the ability to create tuneful or at least coherent music in a relatively short amount of time. Compare this with the MIDI keyboard, which takes a great deal more effort and practice to achieve a similar result. The sequencer does not require an extensive skillset to be able to quite start creating music, although, the longer spent practicing on it, the better skilled a person can become at doing more complex tasks. For example, at first, the player may only select a few notes and let them run continuously for a long period of time, whereas after a few sessions of practice they will be able to control a great deal more parameters simultaneously and begin to play it like an instrument.
+
+The step sequencer allows for a higher level of control and precision simultaneously compared to the MIDI keyboard, as a controller, granting access to a different kind of musical experience and interaction. For this reason the step sequencer was chosen as the controller for this project.
+
+## What It Does Compared With Other Sequencers
+------
+The layout of the step sequencer in this project is based loosely around the Intellijel Metropolis Eurorack Sequencer (https://www.youtube.com/watch?v=uV9-XA5MPwY). It features eight sliding potentiometers for pitch selection, a potentiometer for changing tempo, a key a scale offset and a global clock with the ability to ratchet. Ratcheting, in this scenario, means playing the same note for the number of beats equal to the pulse count for that particular note. For example if there are two pulses set for each of the eight steps, it would play double the amount of notes within the same time constraint. It would play what appeared to be sixteen steps in the time it would take to play eight.
+
+Similar step sequencers currently on the market that influenced this project are the: 
++ [Intellijel Metropolis Eurorack Sequencer](https://intellijel.com/eurorack-modules/metropolis/)
++ [Megacity Tear Drop Step Sequencer](http://analoguesolutions.com/megacity/)
++ [Koma Komplex Sequencer](http://koma-elektronik.com/?product=komplex-sequencer)
++ [Sputnik 5-Step Voltage Source](http://sputnik-modular.com/5-step-voltage-source/)
++ [Doepfer A155](http://www.doepfer.de/a155.htm)
+
+The Metropolis has the ability to step Forward, Backward, Ping-Pong, Random and Brownian. It features the TB-303 style slide (portamento), ratchet and internally scale notes quantising in any key. This project features the same attributes, minus the Random and Brownian step ability.
+
+The Tear Drop allows an incredible 64 steps in the sequence, due to the hardware and building process, this project is limited to eight steps. The Koma Komplex also features division (ratcheting) as well as the ability to control 64 steps in the sequence.
+
+Two huge advantages that this project has over these sequencers is; firstly, the total cost of the purchased parts comes to twenty pounds and secondly, if has a synthesiser built in to the software so there is no need for an additional piece of hardware. Obviously, being a hybrid, this project is reprogrammable at any time, whereas, the other sequencers will always remain what they are in their current form.
+
