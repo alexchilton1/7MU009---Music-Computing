@@ -67,7 +67,7 @@ The layout of the synthesiser runs similarly to its analogue ancestors, using an
 
 Through researching Schroeder’s work around all-pass filters combined with Schroeder-Moorer’s design of lowpass-feedback-comb-filters, it became clear there are two main ways of creating digital reverb in this manner. Artificial reverberation attempts to recreate the echoes in natural reverb using different techniques involving varying computational requirements, in this case a perceptual approach.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reverberation is a natural acoustical effect. When a sound is emitted in a reverberant room, it is reinforced by a large &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;number of closely spaced echoes. These echoes occur because the emitted sound bounces off the reflecting surfaces of &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the room. (Frenette, 2000, p.2)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reverberation is a natural acoustical effect. When a sound is emitted in a reverberant room, it is reinforced by a large &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;number of closely spaced echoes. These echoes occur because the emitted sound bounces off the reflecting surfaces &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of the room. (Frenette, 2000, p.2)
 
 The perceptual approach tries to generate artificial reverb that is perceptively indistinguishable from its natural counterpart by reproducing only the most predominant parts.
 
